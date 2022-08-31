@@ -137,7 +137,7 @@ main h3{
     font-weight: normal;
     text-align: center;
     margin-bottom: 50px;
-    background: #ff8c3a;
+    color: #ff8c3a;
 }
 .s1 ul {
     overflow: hidden;
@@ -286,8 +286,7 @@ main h3{
     top:15px; 
     right:10px;
 }
-.news_list li { 
-    border:1px solid blue; 
+.news_list li {  
     overflow:hidden;
     margin-bottom:10px 
 }
